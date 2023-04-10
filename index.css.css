@@ -1,0 +1,83 @@
+#capital-letter{
+     
+        animation-duration: 2s;
+      /* margin-left: 50vw; */
+      text-align: center;
+        animation-name: slidein;
+        font-family: 'Roboto Mono', monospace;
+        color: white;
+      }
+      
+      @keyframes slidein {
+        from {
+    margin-left: 100%;
+        }
+        to {
+            margin-left: 500px;
+        }
+        
+
+    }
+    img{
+
+        height: 400px;
+        width: 75%;
+    margin: 0 50px 0 180px;
+    border-radius: 40px 40px 40px 40px;
+
+}
+body{
+
+    background-color: black;
+}
+p {
+    font-size: 4ch;
+margin-left: 300px;
+font-family: 'Roboto Mono', monospace;
+color: white;
+
+}
+.h4{
+margin-left: 300px;
+font-size: 3ch;
+font-family: 'Roboto Mono', monospace;
+color: white;
+}
+ul{
+
+    margin-left: 300px;
+    margin-bottom: 50px;
+    font-size: 2.5ch;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+form{
+font-size: 3ch;
+    margin: 20px 0 0 300px;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+h5{
+font-size: 3ch;
+font-family: 'Roboto Mono', monospace;
+color: white;
+margin: 20px 0 0 300px;
+}
+div{
+font-size: 3ch;
+font-family: 'Roboto Mono', monospace;
+color: white;
+margin: 20px 0 30px 290px  ;
+}
+pre{
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+margin-top: 100px;
+}
+.google{
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    margin: 0 0 70px 300px;
+    font-size: 3ch;
+
+}
